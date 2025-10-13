@@ -98,7 +98,7 @@ Conceptos aplicados:
 
 ## 🔗 Conectemos
 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-leonel-martins-530309193/)
-💻 [GitHub](https://github.com/tuusuario)
+💻 [GitHub](https://github.com/JLeonelMartins)
 
 ---
 
