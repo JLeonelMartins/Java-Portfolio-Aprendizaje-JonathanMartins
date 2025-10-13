@@ -1,0 +1,9 @@
+# Archivos y carpetas de IntelliJ IDEA
+.idea/
+*.iml
+out/
+bin/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
