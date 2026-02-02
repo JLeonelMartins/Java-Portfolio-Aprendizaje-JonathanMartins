@@ -90,8 +90,7 @@ Conceptos aplicados:
 
 ## 🚀 Próximos pasos
 - 🔹 Conexión con bases de datos (JDBC y MySQL)  
-- 🔹 Creación de APIs REST con **Spring Boot**  
-- 🔹 Construcción de interfaces gráficas con **Swing / JavaFX**  
+- 🔹 Creación de APIs REST con **Spring Boot**   
 - 🔹 Implementación de pruebas unitarias (JUnit)  
 
 ---
